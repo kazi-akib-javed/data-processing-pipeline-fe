@@ -7,6 +7,7 @@ This is a self developed project to visualize the stream and batch processing by
  - Redis
  - Websocket
  - Postgresql
+
 #Frontend
  - React
  - Socket
